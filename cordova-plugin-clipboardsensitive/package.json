@@ -1,0 +1,16 @@
+{
+  "name": "cordova-plugin-clipboardsensitive",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-plugin-clipboardsensitive",
+    "platforms": ["android", "ios"]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shuteck/cordova-plugin-clipboardsensitive.git"
+  },
+  "keywords": ["cordova", "clipboard", "sensitive", "cordova-ios", "cordova-android"],
+  "description": "Cordova Plugin for handling clipboard sensitive data",
+  "author": "Carlos Silveira - CommonMS",
+  "license": "MIT"
+}
